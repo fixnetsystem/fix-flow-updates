@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"> 
-    <channel>                                                                            
-      <title>FixFlow Updates</title>                                                      
-      <link>https://fixnetsystem.github.io/fix-flow-updates/</link>
-      <description>FixFlow software updates</description>                                 
-      <language>en</language>                                                             
-    </channel>               
-  </rss>      
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FixFlow Updates (nightly)</title>
+    <link>https://fixnetsystem.github.io/fix-flow-updates/</link>
+    <description>FixFlow software update feed — nightly channel</description>
+    <language>en</language>
+  
+    <item>
+      <title>FixFlow 0.0.1</title>
+      <sparkle:channel>nightly</sparkle:channel>
+      <pubDate>Wed, 22 Apr 2026 21:49:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Initial nightly build.</p>]]></description>
+      <enclosure
+        url="https://github.com/fixnetsystem/fix-flow-updates/releases/download/v0.0.1-nightly/fix_flow-nightly-0.0.1.zip"
+        sparkle:edSignature="P+jdJBuUvqkHEjSVoHTpLLll9QerfiVaLbrJNR864GtvaaHLXtbswmDvDGhizC0weji/xlH0L6SCeSKRUJBYCA=="
+        length="19476290"
+        type="application/octet-stream"
+        sparkle:version="202604222149"
+        sparkle:shortVersionString="0.0.1"/>
+    </item>
+  </channel>
+</rss>
