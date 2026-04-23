@@ -9,6 +9,21 @@
     <language>en</language>
   
     <item>
+      <title>FixFlow 0.0.9</title>
+      <sparkle:channel>nightly</sparkle:channel>
+      <pubDate>Thu, 23 Apr 2026 14:48:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Release 0.0.9.</p>]]></description>
+      <enclosure
+        url="https://github.com/fixnetsystem/fix-flow-updates/releases/download/v0.0.9-nightly/fix_flow-nightly-0.0.9.zip"
+        sparkle:edSignature="BV9tptFTzNR0YqjGYREARF6HCH3QBso33zkdbxbNmUlk9G4rUjhfKaYKqjMenNbmPK1CNqg9hBJ9TbbWZTj+AQ=="
+        length="20674678"
+        type="application/octet-stream"
+        sparkle:version="202604231448"
+        sparkle:shortVersionString="0.0.9"/>
+    </item>
+
+    <item>
       <title>FixFlow 0.0.8</title>
       <sparkle:channel>nightly</sparkle:channel>
       <pubDate>Thu, 23 Apr 2026 14:40:00 +0000</pubDate>
