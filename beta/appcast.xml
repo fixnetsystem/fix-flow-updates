@@ -11,6 +11,21 @@
     <item>
       <title>FixFlow 0.0.34</title>
       <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 24 Apr 2026 12:26:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Release 0.0.34.</p>]]></description>
+      <enclosure
+        url="https://github.com/fixnetsystem/fix-flow-updates/releases/download/v0.0.34-beta/fix_flow-beta-0.0.34.zip"
+        sparkle:edSignature="5JLWmda9KW0VsQc57J5IVuTWmyLmGAA7O0euU5jEc1tAX7ODxWRI0pPuXJjEDaqQDGWtHPMa1e0/GFo0mJlkDw=="
+        length="20689652"
+        type="application/octet-stream"
+        sparkle:version="202604241226"
+        sparkle:shortVersionString="0.0.34"/>
+    </item>
+
+    <item>
+      <title>FixFlow 0.0.34</title>
+      <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 24 Apr 2026 12:24:00 +0000</pubDate>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<p>Release 0.0.34.</p>]]></description>
