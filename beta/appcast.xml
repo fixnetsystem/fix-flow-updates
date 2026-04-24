@@ -9,6 +9,21 @@
     <language>en</language>
   
     <item>
+      <title>FixFlow 0.0.33</title>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 24 Apr 2026 12:20:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Release 0.0.33.</p>]]></description>
+      <enclosure
+        url="https://github.com/fixnetsystem/fix-flow-updates/releases/download/v0.0.33-beta/fix_flow-beta-0.0.33.zip"
+        sparkle:edSignature="b1C06GzcnNBwCZygj6OZG5D8YMxqKG2E5mz6AXMlZ+eEVunJzCc815nYiBbyquWMhSGgpawYNd3xl9uE+gBkDA=="
+        length="20689621"
+        type="application/octet-stream"
+        sparkle:version="202604241220"
+        sparkle:shortVersionString="0.0.33"/>
+    </item>
+
+    <item>
       <title>FixFlow 0.0.1</title>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 22 Apr 2026 22:16:00 +0000</pubDate>
