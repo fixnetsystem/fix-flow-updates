@@ -9,6 +9,21 @@
     <language>en</language>
   
     <item>
+      <title>FixFlow 0.0.48</title>
+      <sparkle:channel>nightly</sparkle:channel>
+      <pubDate>Tue, 02 Jun 2026 16:23:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Release 0.0.48.</p>]]></description>
+      <enclosure
+        url="https://github.com/fixnetsystem/fix-flow-updates/releases/download/v0.0.48-nightly/fix_flow-nightly-0.0.48.zip"
+        sparkle:edSignature="yPU6wwLk/gP8S6YL1MpZ7j6+TNxrJggX+JrWWD6PGd5/mz+r7ljI1FUmQF6D2unZzuHhVhJTBVUwQDjUpPNDBw=="
+        length="72141362"
+        type="application/octet-stream"
+        sparkle:version="202606021623"
+        sparkle:shortVersionString="0.0.48"/>
+    </item>
+
+    <item>
       <title>FixFlow 0.0.47</title>
       <sparkle:channel>nightly</sparkle:channel>
       <pubDate>Mon, 25 May 2026 19:19:00 +0000</pubDate>
@@ -141,21 +156,6 @@
         type="application/octet-stream"
         sparkle:version="202604280850"
         sparkle:shortVersionString="0.0.39"/>
-    </item>
-
-    <item>
-      <title>FixFlow 0.0.38</title>
-      <sparkle:channel>nightly</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 07:28:00 +0000</pubDate>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Release 0.0.38.</p>]]></description>
-      <enclosure
-        url="https://github.com/fixnetsystem/fix-flow-updates/releases/download/v0.0.38-nightly/fix_flow-nightly-0.0.38.zip"
-        sparkle:edSignature="v0585LbfhWkPEutte4U+/eUnrucpjcmy0xImJk7Zh0tLPcsfcP28KyPQW49NBPugYePtMk6I45Kjb+s7cPAWCA=="
-        length="35342981"
-        type="application/octet-stream"
-        sparkle:version="202604280728"
-        sparkle:shortVersionString="0.0.38"/>
     </item>
   </channel>
 </rss>
